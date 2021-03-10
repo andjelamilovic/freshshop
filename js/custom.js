@@ -412,7 +412,7 @@
 					total += (quantity * item.price.new);
 				}
 			});
-			cartTotalValue.html(total);
+			cartTotalValue.html("$ " + total.toLocaleString());
 		}
 	}
 	
@@ -516,7 +516,7 @@
 			var price = $(this).attr('data-price');
 			var id = $(this).attr('data-id');
 			var totalPr = $(this).parent().next().find('p');
-			totalPr.html(value * price);
+			totalPr.html("$ "+(value * price).toLocaleString());
 			var lastQuantity = parseInt(_localStorage._getItems(`cart-${id}`));
 			var cartTotal = parseInt(_localStorage._getItems(`cart-total`));
 			_localStorage._setItems('cart-total', (cartTotal - lastQuantity));
@@ -552,11 +552,11 @@
 				<p>${item.name}</p>
 			</td>
 			<td class="price-pr">
-				<p>$ ${item.price.new}</p>
+				<p>$ ${item.price.new.toLocaleString()}</p>
 			</td>
 			<td class="quantity-box"><input type="number" size="4" data-id="${item.id}" data-price="${item.price.new}" value="${quantity}" min="0" step="1" class="c-input-text qty text"></td>
 			<td class="total-pr">
-				<p>$ ${item.price.new * quantity}</p>
+				<p>$ ${(item.price.new * quantity).toLocaleString()}</p>
 			</td>
 			<td class="remove-pr">
 				<a href="#" data-id="${item.id}">
