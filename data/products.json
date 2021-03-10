@@ -166,11 +166,11 @@
   },
   {
     "id": 12,
-    "name": "lemons",
-    "type": "Fruits",
+    "name": "Greens",
+    "type": "Vegetables",
     "image": {
-      "url": "images/lemons.jpg",
-      "alt": "Lemons"
+      "url": "images/greens.jpg",
+      "alt": "Greens"
     },
     "price": {
       "old": 11.99,
