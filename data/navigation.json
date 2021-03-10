@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "label": "Home",
+    "url": "/index.html"
+  },
+  {
+    "id": 2,
+    "label": "Shop",
+    "dropdown": [
+      {
+        "label": "Sidebar Shop",
+        "url": "/shop.html"
+      },
+      {
+        "label": "Cart",
+        "url": "/cart.html"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "label": "Gallery",
+    "url": "/gallery.html"
+  },
+  {
+    "id": 4,
+    "label": "Contact Us",
+    "url": "/contact-us.html"
+  }
+]

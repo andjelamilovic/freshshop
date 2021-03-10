@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "image": {
+        "url": "images/cucumbers.jpg",
+        "alt": "Cucumber"
+      }
+    },
+    {
+      "id": 2,
+      "image": {
+        "url": "images/cherry_tomato.jpg",
+        "alt": "Cherry_tomato"
+      }
+    },
+    {
+      "id": 3,
+      "image": {
+        "url": "images/paprika.jpg",
+        "alt": "Paprika"
+      }
+    },
+    {
+      "id": 4,
+      "image": {
+        "url": "images/beans.jpg",
+        "alt": "Beans"
+      }
+    },
+    {
+      "id": 5,
+      "image": {
+        "url": "images/seeds.jpg",
+        "alt": "Seeds"
+      }
+    },
+    {
+      "id": 6,
+      "image": {
+        "url": "images/blueberries.jpg",
+        "alt": "Blueberries"
+      }
+    },
+    {
+      "id": 7,
+      "image": {
+        "url": "images/green_seeds.jpg",
+        "alt": "Green seeds"
+      }
+    },
+    {
+      "id": 8,
+      "image": {
+        "url": "images/green_beans.jpg",
+        "alt": "Green beans"
+      }
+    },
+    {
+      "id": 9,
+      "image": {
+        "url": "images/garlic.jpg",
+        "alt": "Garlic"
+      }
+    },
+    {
+      "id": 10,
+      "image": {
+        "url": "images/turnip.jpg",
+        "alt": "Turnip"
+      }
+    },
+    {
+      "id": 11,
+      "image": {
+        "url": "images/red_onion.jpg",
+        "alt": "Red onion"
+      }
+    },
+    {
+      "id": 12,
+      "image": {
+        "url": "images/peas.jpg",
+        "alt": "Peas"
+      }
+    }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Carrots",
+    "type": "vegetables",
+    "image": {
+      "url": "images/carrots.jpg",
+      "alt": "Carrots"
+    },
+    "price": {
+      "old": 9.79,
+      "new": 8.79
+    },
+    "new": true,
+    "sale": false
+  },
+  {
+    "id": 2,
+    "name": "Tomatoes",
+    "type": "vegetables",
+    "image": {
+      "url": "images/tomatoes.jpg",
+      "alt": "Tomatoes"
+    },
+    "price": {
+      "old": 10.79,
+      "new": 9.79
+    },
+    "new": false,
+    "sale": true
+  },
+  {
+    "id": 3,
+    "name": "Orange",
+    "type": "fruit",
+    "image": {
+      "url": "images/orange.jpg",
+      "alt": "Orange"
+    },
+    "price": {
+      "old": 10.79,
+      "new": 7.79
+    },
+    "new": false,
+    "sale": true
+  },
+  {
+    "id": 4,
+    "name": "Malon",
+    "type": "fruit",
+    "image": {
+      "url": "images/sliced_malon.jpg",
+      "alt": "Malon"
+    },
+    "price": {
+      "old": 9.79,
+      "new": 7.79
+    },
+    "new": true,
+    "sale": false
+  },
+  {
+    "id": 5,
+    "name": "Cherries",
+    "type": "fruit",
+    "image": {
+      "url": "images/cherries.jpg",
+      "alt": "Cherries"
+    },
+    "price": {
+      "old": 8.79,
+      "new": 7.79
+    },
+    "new": false,
+    "sale": true
+  },
+  {
+    "id": 6,
+    "name": "Grapes",
+    "type": "fruit",
+    "image": {
+      "url": "images/grapes.jpg",
+      "alt": "Grapes"
+    },
+    "price": {
+      "old": 9.79,
+      "new": 8.79
+    },
+    "new": false,
+    "sale": true
+  },
+  {
+    "id": 7,
+    "name": "Chard",
+    "type": "vegetables",
+    "image": {
+      "url": "images/chard.jpg",
+      "alt": "Chard"
+    },
+    "price": {
+      "old": 8.79,
+      "new": 5.79
+    },
+    "new": false,
+    "sale": true
+  },
+  {
+    "id": 8,
+    "name": "Strawberries",
+    "type": "fruit",
+    "image": {
+      "url": "images/large_strawberries.jpg",
+      "alt": "Large strawberries"
+    },
+    "price": {
+      "old": 10.79,
+      "new": 9.79
+    },
+    "new": true,
+    "sale": false
+  },
+  {
+    "id": 9,
+    "name": "Potato",
+    "type": "vegetables",
+    "image": {
+      "url": "images/potato.jpg",
+      "alt": "Potato"
+    },
+    "price": {
+      "old": 9.99,
+      "new": 8.79
+    },
+    "new": true,
+    "sale": false
+  },
+  {
+    "id": 10,
+    "name": "Pumpkin",
+    "type": "fruits",
+    "image": {
+      "url": "images/pumpkin.jpg",
+      "alt": "Pumpkin"
+    },
+    "price": {
+      "old": 9.99,
+      "new": 8.79
+    },
+    "new": true,
+    "sale": false
+  },
+  {
+    "id": 11,
+    "name": "lemons",
+    "type": "Fruits",
+    "image": {
+      "url": "images/lemons.jpg",
+      "alt": "Lemons"
+    },
+    "price": {
+      "old": 11.99,
+      "new": 8.79
+    },
+    "new": false,
+    "sale": true
+  },
+  {
+    "id": 12,
+    "name": "lemons",
+    "type": "Fruits",
+    "image": {
+      "url": "images/lemons.jpg",
+      "alt": "Lemons"
+    },
+    "price": {
+      "old": 11.99,
+      "new": 8.79
+    },
+    "new": false,
+    "sale": true
+  }
+]

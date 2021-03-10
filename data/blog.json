@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Cabbage",
+      "image": {
+        "url": "images/cabbage.jpg",
+        "alt": "Cabbab"
+      },
+      "description":"Cabbage is one of those humble, plain vegetables that is very often overlooked, but it is surprisingly versatile and yummy. Cabbage also has a tonne of medicinal uses and it definitely deserves a place in the fridge as a multi-purpose home remedy. Cabbage leaves, both green and red, owes many of its healing properties. Very traditional home remedies include cabbage as a poultice, which is a topical application of macerated food."                     
+    },
+    {
+        "id": 2,
+        "name": "Salad",
+        "image": {
+          "url": "images/salad.jpg",
+          "alt": "Salad"
+        },
+        "description":"Organic Carrots are famous for being high in beta carotene, which is not only an antioxidant but also responsible for the carrot's orange colouring. A staple lunchtime snack worldwide, Organic Carrots are also great in soups, salads and stir-fry, as well as baked goods - you can even use the carrot greens in juices! Organic Carrots can last up to 3-4 weeks if stored in a perforated plastic bag in the refrigerator."                     
+    },
+    {
+        "id": 3,
+        "name": "Carrots and cucumbers",
+        "image": {
+          "url": "images/carrots_and_cucumbers.jpg",
+          "alt": "Carrots and cucumbers"
+        },
+        "description":"Organic Cucumber is another one of those surprising foods that are actually a fruit and not a veggie. Composed of 90% water, Organic Cucumbers promote hydration, may aid in weight loss and may lower blood sugar. You can put Organic Cucumber slices over your eyes to reduce puffiness, too! It makes a refreshing and healthy snack that are a great addition to salads, grain bowls and drinks."   
+                        
+    }
+]

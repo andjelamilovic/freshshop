@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name_up": "Welcome To",
+      "name_down": "Freshshop",
+      "image": {
+        "url": "images/pick_strawberries.jpg",
+        "alt": "Pick strawberries"
+      },
+      "label": "Shop Now"
+    },
+    {
+        "id": 2,
+        "name_up": "Welcome To",
+        "name_down": "Freshshop",
+        "image": {
+          "url": "images/tomatoes_and_carrots.jpg",
+          "alt": "Tomatoes and carrots"
+        },
+        "label": "Shop Now"
+      },
+      {
+        "id": 3,
+        "name_up": "Welcome To",
+        "name_down": "Freshshop",
+        "image": {
+          "url": "images/soy.jpg",
+          "alt": "Soy"
+        },
+        "label": "Shop Now"
+      }
+]
